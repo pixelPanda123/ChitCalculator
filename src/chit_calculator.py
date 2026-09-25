@@ -7,9 +7,9 @@ def calculate_monthly_installment(chit_input: ChitInput) -> float:
     return chit_input.chit_value / chit_input.duration_months
 
 
-def calculate_auction_values(chit_input: ChitInput):
+def calculate_auction_values(chit_input: ChitInput, schedule=None):
     """Get the bid, dividend, and prize for the selected lifting month."""
-    auction = get_auction_result(chit_input.month_of_lifting)
+    auction = get_auction_result(chit_input.month_of_lifting, schedule)
 
     return (
         auction.bid_amount,
@@ -26,13 +26,17 @@ def calculate_net_installment(
     return monthly_installment - dividend
 
 
-def calculate_chit(chit_input: ChitInput) -> ChitCalculation:
-    """Run the basic chit calculations using the selected auction month."""
+def calculate_chit(chit_input: ChitInput, schedule=None) -> ChitCalculation:
+    """
+    Run the basic chit calculations using the selected auction month.
+
+    ``schedule`` overrides the built-in demo auction schedule.
+    """
 
     monthly_installment = calculate_monthly_installment(chit_input)
 
     bid_amount, dividend, prize_amount = calculate_auction_values(
-        chit_input
+        chit_input, schedule
     )
 
     net_installment = calculate_net_installment(

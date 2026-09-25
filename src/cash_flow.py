@@ -5,6 +5,7 @@ from src.auction_schedule import get_auction_result
 def get_monthly_dividend(
     month: int,
     chit_input: ChitInput,
+    schedule=None,
 ) -> float:
     """
     Return the dividend the subscriber receives in the given month.
@@ -19,7 +20,7 @@ def get_monthly_dividend(
     ):
         return 0.0
 
-    auction = get_auction_result(month)
+    auction = get_auction_result(month, schedule)
 
     return auction.dividend
 
@@ -41,12 +42,13 @@ def calculate_month_cash_flow(
     month: int,
     chit_input: ChitInput,
     chit_calculation: ChitCalculation,
+    schedule=None,
 ) -> MonthlyCashFlow:
     """Calculate the complete cash flow for one month."""
 
     gross_installment = chit_calculation.monthly_installment
 
-    dividend = get_monthly_dividend(month, chit_input)
+    dividend = get_monthly_dividend(month, chit_input, schedule)
 
     prize_received = get_prize_received(
         month,
@@ -72,6 +74,7 @@ def calculate_month_cash_flow(
 def generate_cash_flows(
     chit_input: ChitInput,
     chit_calculation: ChitCalculation,
+    schedule=None,
 ) -> list[MonthlyCashFlow]:
     """Generate the complete month-by-month chit cash flow timeline."""
 
@@ -82,6 +85,7 @@ def generate_cash_flows(
             month,
             chit_input,
             chit_calculation,
+            schedule,
         )
 
         cash_flows.append(monthly_cash_flow)

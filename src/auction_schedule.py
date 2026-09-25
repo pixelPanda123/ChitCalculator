@@ -38,13 +38,24 @@ AUCTION_SCHEDULE = {
 }
 
 
-def get_auction_result(month: int) -> AuctionResult:
-    """Return the configured auction result for a given month."""
+def get_auction_result(
+    month: int,
+    schedule: dict[int, AuctionResult] | None = None,
+) -> AuctionResult:
+    """
+    Return the auction result for a given month.
 
-    if month not in AUCTION_SCHEDULE:
+    Defaults to the built-in demo schedule. Pass ``schedule`` to use
+    another one, such as a schedule built from historical data by
+    src.reference_curve.
+    """
+
+    table = AUCTION_SCHEDULE if schedule is None else schedule
+
+    if month not in table:
         raise ValueError(
             f"Invalid auction month: {month}. "
-            f"Expected a month between 1 and {len(AUCTION_SCHEDULE)}."
+            f"Expected a month between 1 and {len(table)}."
         )
 
-    return AUCTION_SCHEDULE[month]
+    return table[month]
