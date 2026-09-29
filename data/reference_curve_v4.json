@@ -103,6 +103,410 @@
     "source": "decay-observed"
    }
   },
+  "1|50|ALL": {
+   "1": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "2": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "3": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "4": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "5": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "6": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "7": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "8": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "9": {
+    "p50": 0.3026,
+    "source": "decay-observed"
+   },
+   "10": {
+    "p50": 0.28,
+    "source": "decay-observed"
+   },
+   "11": {
+    "p50": 0.3236,
+    "source": "decay-observed"
+   },
+   "12": {
+    "p50": 0.253,
+    "source": "decay-observed"
+   },
+   "13": {
+    "p50": 0.2477,
+    "source": "decay-extrapolated"
+   },
+   "14": {
+    "p50": 0.2423,
+    "source": "decay-extrapolated"
+   },
+   "15": {
+    "p50": 0.237,
+    "source": "decay-extrapolated"
+   },
+   "16": {
+    "p50": 0.2316,
+    "source": "decay-extrapolated"
+   },
+   "17": {
+    "p50": 0.2263,
+    "source": "decay-extrapolated"
+   },
+   "18": {
+    "p50": 0.2209,
+    "source": "decay-extrapolated"
+   },
+   "19": {
+    "p50": 0.2156,
+    "source": "decay-extrapolated"
+   },
+   "20": {
+    "p50": 0.2103,
+    "source": "decay-extrapolated"
+   },
+   "21": {
+    "p50": 0.2049,
+    "source": "decay-extrapolated"
+   },
+   "22": {
+    "p50": 0.1996,
+    "source": "decay-extrapolated"
+   },
+   "23": {
+    "p50": 0.1942,
+    "source": "decay-extrapolated"
+   },
+   "24": {
+    "p50": 0.1889,
+    "source": "decay-extrapolated"
+   },
+   "25": {
+    "p50": 0.1836,
+    "source": "decay-extrapolated"
+   },
+   "26": {
+    "p50": 0.1782,
+    "source": "decay-extrapolated"
+   },
+   "27": {
+    "p50": 0.1729,
+    "source": "decay-extrapolated"
+   },
+   "28": {
+    "p50": 0.1675,
+    "source": "decay-extrapolated"
+   },
+   "29": {
+    "p50": 0.1622,
+    "source": "decay-extrapolated"
+   },
+   "30": {
+    "p50": 0.1568,
+    "source": "decay-extrapolated"
+   },
+   "31": {
+    "p50": 0.1515,
+    "source": "decay-extrapolated"
+   },
+   "32": {
+    "p50": 0.1462,
+    "source": "decay-extrapolated"
+   },
+   "33": {
+    "p50": 0.1408,
+    "source": "decay-extrapolated"
+   },
+   "34": {
+    "p50": 0.1355,
+    "source": "decay-extrapolated"
+   },
+   "35": {
+    "p50": 0.1301,
+    "source": "decay-extrapolated"
+   },
+   "36": {
+    "p50": 0.1248,
+    "source": "decay-extrapolated"
+   },
+   "37": {
+    "p50": 0.1194,
+    "source": "decay-extrapolated"
+   },
+   "38": {
+    "p50": 0.1141,
+    "source": "decay-extrapolated"
+   },
+   "39": {
+    "p50": 0.1088,
+    "source": "decay-extrapolated"
+   },
+   "40": {
+    "p50": 0.1034,
+    "source": "decay-extrapolated"
+   },
+   "41": {
+    "p50": 0.0981,
+    "source": "decay-extrapolated"
+   },
+   "42": {
+    "p50": 0.0927,
+    "source": "decay-extrapolated"
+   },
+   "43": {
+    "p50": 0.0874,
+    "source": "decay-extrapolated"
+   },
+   "44": {
+    "p50": 0.0821,
+    "source": "decay-extrapolated"
+   },
+   "45": {
+    "p50": 0.0767,
+    "source": "decay-extrapolated"
+   },
+   "46": {
+    "p50": 0.0714,
+    "source": "decay-extrapolated"
+   },
+   "47": {
+    "p50": 0.066,
+    "source": "decay-extrapolated"
+   },
+   "48": {
+    "p50": 0.0607,
+    "source": "decay-extrapolated"
+   },
+   "49": {
+    "p50": 0.0553,
+    "source": "decay-extrapolated"
+   },
+   "50": {
+    "p50": 0.05,
+    "source": "decay-extrapolated"
+   }
+  },
+  "1|50|5L": {
+   "1": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "2": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "3": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "4": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "5": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "6": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "7": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "8": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "9": {
+    "p50": 0.3026,
+    "source": "decay-observed"
+   },
+   "10": {
+    "p50": 0.28,
+    "source": "decay-observed"
+   },
+   "11": {
+    "p50": 0.3236,
+    "source": "decay-observed"
+   },
+   "12": {
+    "p50": 0.253,
+    "source": "decay-observed"
+   },
+   "13": {
+    "p50": 0.2477,
+    "source": "decay-extrapolated"
+   },
+   "14": {
+    "p50": 0.2423,
+    "source": "decay-extrapolated"
+   },
+   "15": {
+    "p50": 0.237,
+    "source": "decay-extrapolated"
+   },
+   "16": {
+    "p50": 0.2316,
+    "source": "decay-extrapolated"
+   },
+   "17": {
+    "p50": 0.2263,
+    "source": "decay-extrapolated"
+   },
+   "18": {
+    "p50": 0.2209,
+    "source": "decay-extrapolated"
+   },
+   "19": {
+    "p50": 0.2156,
+    "source": "decay-extrapolated"
+   },
+   "20": {
+    "p50": 0.2103,
+    "source": "decay-extrapolated"
+   },
+   "21": {
+    "p50": 0.2049,
+    "source": "decay-extrapolated"
+   },
+   "22": {
+    "p50": 0.1996,
+    "source": "decay-extrapolated"
+   },
+   "23": {
+    "p50": 0.1942,
+    "source": "decay-extrapolated"
+   },
+   "24": {
+    "p50": 0.1889,
+    "source": "decay-extrapolated"
+   },
+   "25": {
+    "p50": 0.1836,
+    "source": "decay-extrapolated"
+   },
+   "26": {
+    "p50": 0.1782,
+    "source": "decay-extrapolated"
+   },
+   "27": {
+    "p50": 0.1729,
+    "source": "decay-extrapolated"
+   },
+   "28": {
+    "p50": 0.1675,
+    "source": "decay-extrapolated"
+   },
+   "29": {
+    "p50": 0.1622,
+    "source": "decay-extrapolated"
+   },
+   "30": {
+    "p50": 0.1568,
+    "source": "decay-extrapolated"
+   },
+   "31": {
+    "p50": 0.1515,
+    "source": "decay-extrapolated"
+   },
+   "32": {
+    "p50": 0.1462,
+    "source": "decay-extrapolated"
+   },
+   "33": {
+    "p50": 0.1408,
+    "source": "decay-extrapolated"
+   },
+   "34": {
+    "p50": 0.1355,
+    "source": "decay-extrapolated"
+   },
+   "35": {
+    "p50": 0.1301,
+    "source": "decay-extrapolated"
+   },
+   "36": {
+    "p50": 0.1248,
+    "source": "decay-extrapolated"
+   },
+   "37": {
+    "p50": 0.1194,
+    "source": "decay-extrapolated"
+   },
+   "38": {
+    "p50": 0.1141,
+    "source": "decay-extrapolated"
+   },
+   "39": {
+    "p50": 0.1088,
+    "source": "decay-extrapolated"
+   },
+   "40": {
+    "p50": 0.1034,
+    "source": "decay-extrapolated"
+   },
+   "41": {
+    "p50": 0.0981,
+    "source": "decay-extrapolated"
+   },
+   "42": {
+    "p50": 0.0927,
+    "source": "decay-extrapolated"
+   },
+   "43": {
+    "p50": 0.0874,
+    "source": "decay-extrapolated"
+   },
+   "44": {
+    "p50": 0.0821,
+    "source": "decay-extrapolated"
+   },
+   "45": {
+    "p50": 0.0767,
+    "source": "decay-extrapolated"
+   },
+   "46": {
+    "p50": 0.0714,
+    "source": "decay-extrapolated"
+   },
+   "47": {
+    "p50": 0.066,
+    "source": "decay-extrapolated"
+   },
+   "48": {
+    "p50": 0.0607,
+    "source": "decay-extrapolated"
+   },
+   "49": {
+    "p50": 0.0553,
+    "source": "decay-extrapolated"
+   },
+   "50": {
+    "p50": 0.05,
+    "source": "decay-extrapolated"
+   }
+  },
   "2|25|ALL": {
    "1": {
     "p50": 0.35,
@@ -223,39 +627,39 @@
     "source": "plateau"
    },
    "5": {
-    "p50": 0.277,
+    "p50": 0.2744,
     "source": "decay-observed"
    },
    "6": {
-    "p50": 0.3103,
+    "p50": 0.316,
     "source": "decay-observed"
    },
    "7": {
-    "p50": 0.2977,
+    "p50": 0.308,
     "source": "decay-observed"
    },
    "8": {
-    "p50": 0.274,
+    "p50": 0.2922,
     "source": "decay-observed"
    },
    "9": {
-    "p50": 0.2908,
+    "p50": 0.3033,
     "source": "decay-observed"
    },
    "10": {
-    "p50": 0.273,
+    "p50": 0.2846,
     "source": "decay-observed"
    },
    "11": {
-    "p50": 0.2556,
+    "p50": 0.26,
     "source": "decay-observed"
    },
    "12": {
-    "p50": 0.239,
+    "p50": 0.2474,
     "source": "decay-observed"
    },
    "13": {
-    "p50": 0.2052,
+    "p50": 0.2194,
     "source": "decay-observed"
    },
    "14": {
@@ -425,39 +829,39 @@
     "source": "plateau"
    },
    "5": {
-    "p50": 0.277,
+    "p50": 0.2744,
     "source": "decay-observed"
    },
    "6": {
-    "p50": 0.3103,
+    "p50": 0.316,
     "source": "decay-observed"
    },
    "7": {
-    "p50": 0.2977,
+    "p50": 0.308,
     "source": "decay-observed"
    },
    "8": {
-    "p50": 0.274,
+    "p50": 0.2922,
     "source": "decay-observed"
    },
    "9": {
-    "p50": 0.2908,
+    "p50": 0.3033,
     "source": "decay-observed"
    },
    "10": {
-    "p50": 0.273,
+    "p50": 0.2846,
     "source": "decay-observed"
    },
    "11": {
-    "p50": 0.2556,
+    "p50": 0.26,
     "source": "decay-observed"
    },
    "12": {
-    "p50": 0.239,
+    "p50": 0.2474,
     "source": "decay-observed"
    },
    "13": {
-    "p50": 0.2052,
+    "p50": 0.2194,
     "source": "decay-observed"
    },
    "14": {
@@ -627,39 +1031,241 @@
     "source": "plateau"
    },
    "5": {
-    "p50": 0.277,
+    "p50": 0.2744,
     "source": "decay-observed"
    },
    "6": {
-    "p50": 0.3103,
+    "p50": 0.316,
     "source": "decay-observed"
    },
    "7": {
-    "p50": 0.2977,
+    "p50": 0.308,
     "source": "decay-observed"
    },
    "8": {
-    "p50": 0.274,
+    "p50": 0.2922,
     "source": "decay-observed"
    },
    "9": {
-    "p50": 0.2908,
+    "p50": 0.3033,
     "source": "decay-observed"
    },
    "10": {
-    "p50": 0.273,
+    "p50": 0.2846,
     "source": "decay-observed"
    },
    "11": {
-    "p50": 0.2556,
+    "p50": 0.26,
     "source": "decay-observed"
    },
    "12": {
-    "p50": 0.239,
+    "p50": 0.2474,
     "source": "decay-observed"
    },
    "13": {
-    "p50": 0.2052,
+    "p50": 0.2194,
+    "source": "decay-observed"
+   },
+   "14": {
+    "p50": 0.2111,
+    "source": "decay-observed"
+   },
+   "15": {
+    "p50": 0.1876,
+    "source": "decay-observed"
+   },
+   "16": {
+    "p50": 0.177,
+    "source": "decay-observed"
+   },
+   "17": {
+    "p50": 0.1816,
+    "source": "decay-observed"
+   },
+   "18": {
+    "p50": 0.187,
+    "source": "decay-observed"
+   },
+   "19": {
+    "p50": 0.1605,
+    "source": "decay-observed"
+   },
+   "20": {
+    "p50": 0.1507,
+    "source": "decay-observed"
+   },
+   "21": {
+    "p50": 0.1376,
+    "source": "decay-observed"
+   },
+   "22": {
+    "p50": 0.0919,
+    "source": "decay-observed"
+   },
+   "23": {
+    "p50": 0.1062,
+    "source": "decay-observed"
+   },
+   "24": {
+    "p50": 0.1285,
+    "source": "decay-observed"
+   },
+   "25": {
+    "p50": 0.0775,
+    "source": "decay-observed"
+   },
+   "26": {
+    "p50": 0.083,
+    "source": "decay-observed"
+   },
+   "27": {
+    "p50": 0.0816,
+    "source": "decay-extrapolated"
+   },
+   "28": {
+    "p50": 0.0803,
+    "source": "decay-extrapolated"
+   },
+   "29": {
+    "p50": 0.0789,
+    "source": "decay-extrapolated"
+   },
+   "30": {
+    "p50": 0.0775,
+    "source": "decay-extrapolated"
+   },
+   "31": {
+    "p50": 0.0761,
+    "source": "decay-extrapolated"
+   },
+   "32": {
+    "p50": 0.0748,
+    "source": "decay-extrapolated"
+   },
+   "33": {
+    "p50": 0.0734,
+    "source": "decay-extrapolated"
+   },
+   "34": {
+    "p50": 0.072,
+    "source": "decay-extrapolated"
+   },
+   "35": {
+    "p50": 0.0706,
+    "source": "decay-extrapolated"
+   },
+   "36": {
+    "p50": 0.0693,
+    "source": "decay-extrapolated"
+   },
+   "37": {
+    "p50": 0.0679,
+    "source": "decay-extrapolated"
+   },
+   "38": {
+    "p50": 0.0665,
+    "source": "decay-extrapolated"
+   },
+   "39": {
+    "p50": 0.0651,
+    "source": "decay-extrapolated"
+   },
+   "40": {
+    "p50": 0.0638,
+    "source": "decay-extrapolated"
+   },
+   "41": {
+    "p50": 0.0624,
+    "source": "decay-extrapolated"
+   },
+   "42": {
+    "p50": 0.061,
+    "source": "decay-extrapolated"
+   },
+   "43": {
+    "p50": 0.0596,
+    "source": "decay-extrapolated"
+   },
+   "44": {
+    "p50": 0.0583,
+    "source": "decay-extrapolated"
+   },
+   "45": {
+    "p50": 0.0569,
+    "source": "decay-extrapolated"
+   },
+   "46": {
+    "p50": 0.0555,
+    "source": "decay-extrapolated"
+   },
+   "47": {
+    "p50": 0.0541,
+    "source": "decay-extrapolated"
+   },
+   "48": {
+    "p50": 0.0528,
+    "source": "decay-extrapolated"
+   },
+   "49": {
+    "p50": 0.0514,
+    "source": "decay-extrapolated"
+   },
+   "50": {
+    "p50": 0.05,
+    "source": "decay-extrapolated"
+   }
+  },
+  "2|50|15L": {
+   "1": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "2": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "3": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "4": {
+    "p50": 0.4,
+    "source": "plateau"
+   },
+   "5": {
+    "p50": 0.2744,
+    "source": "decay-observed"
+   },
+   "6": {
+    "p50": 0.316,
+    "source": "decay-observed"
+   },
+   "7": {
+    "p50": 0.308,
+    "source": "decay-observed"
+   },
+   "8": {
+    "p50": 0.2922,
+    "source": "decay-observed"
+   },
+   "9": {
+    "p50": 0.3033,
+    "source": "decay-observed"
+   },
+   "10": {
+    "p50": 0.2846,
+    "source": "decay-observed"
+   },
+   "11": {
+    "p50": 0.26,
+    "source": "decay-observed"
+   },
+   "12": {
+    "p50": 0.2474,
+    "source": "decay-observed"
+   },
+   "13": {
+    "p50": 0.2194,
     "source": "decay-observed"
    },
    "14": {
@@ -829,39 +1435,39 @@
     "source": "plateau"
    },
    "5": {
-    "p50": 0.277,
+    "p50": 0.2744,
     "source": "decay-observed"
    },
    "6": {
-    "p50": 0.3103,
+    "p50": 0.316,
     "source": "decay-observed"
    },
    "7": {
-    "p50": 0.2977,
+    "p50": 0.308,
     "source": "decay-observed"
    },
    "8": {
-    "p50": 0.274,
+    "p50": 0.2922,
     "source": "decay-observed"
    },
    "9": {
-    "p50": 0.2908,
+    "p50": 0.3033,
     "source": "decay-observed"
    },
    "10": {
-    "p50": 0.273,
+    "p50": 0.2846,
     "source": "decay-observed"
    },
    "11": {
-    "p50": 0.2556,
+    "p50": 0.26,
     "source": "decay-observed"
    },
    "12": {
-    "p50": 0.239,
+    "p50": 0.2474,
     "source": "decay-observed"
    },
    "13": {
-    "p50": 0.2052,
+    "p50": 0.2194,
     "source": "decay-observed"
    },
    "14": {
@@ -1328,6 +1934,13 @@
    },
    "groups": 2
   },
+  "1|50|ALL": {
+   "predicted_break_month": 9,
+   "break_month_by_start_year": {
+    "2025": 0.18
+   },
+   "groups": 9
+  },
   "2|25|ALL": {
    "predicted_break_month": 9,
    "break_month_by_start_year": {
@@ -1343,7 +1956,7 @@
     "2024": 0.37,
     "2025": 0.2
    },
-   "groups": 103
+   "groups": 167
   },
   "3|25|ALL": {
    "predicted_break_month": 8,

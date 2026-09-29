@@ -1,0 +1,1574 @@
+{
+ "fc_rate": 0.05,
+ "curve": {
+  "1|25|ALL": {
+   "1": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "2": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "3": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "4": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "5": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "6": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "7": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "8": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "9": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "10": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "11": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "12": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "13": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "14": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "15": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "16": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "17": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "18": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "19": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "20": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "21": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "22": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "23": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "24": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "25": {
+    "p50": 0.35,
+    "source": "no-data"
+   }
+  },
+  "1|50|ALL": {
+   "1": {
+    "p50": 0.225,
+    "source": "observed"
+   },
+   "2": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "3": {
+    "p50": 0.3927,
+    "source": "extrapolated-linear"
+   },
+   "4": {
+    "p50": 0.3854,
+    "source": "extrapolated-linear"
+   },
+   "5": {
+    "p50": 0.3781,
+    "source": "extrapolated-linear"
+   },
+   "6": {
+    "p50": 0.3708,
+    "source": "extrapolated-linear"
+   },
+   "7": {
+    "p50": 0.3635,
+    "source": "extrapolated-linear"
+   },
+   "8": {
+    "p50": 0.3563,
+    "source": "extrapolated-linear"
+   },
+   "9": {
+    "p50": 0.349,
+    "source": "extrapolated-linear"
+   },
+   "10": {
+    "p50": 0.3417,
+    "source": "extrapolated-linear"
+   },
+   "11": {
+    "p50": 0.3344,
+    "source": "extrapolated-linear"
+   },
+   "12": {
+    "p50": 0.3271,
+    "source": "extrapolated-linear"
+   },
+   "13": {
+    "p50": 0.3198,
+    "source": "extrapolated-linear"
+   },
+   "14": {
+    "p50": 0.3125,
+    "source": "extrapolated-linear"
+   },
+   "15": {
+    "p50": 0.3052,
+    "source": "extrapolated-linear"
+   },
+   "16": {
+    "p50": 0.2979,
+    "source": "extrapolated-linear"
+   },
+   "17": {
+    "p50": 0.2906,
+    "source": "extrapolated-linear"
+   },
+   "18": {
+    "p50": 0.2833,
+    "source": "extrapolated-linear"
+   },
+   "19": {
+    "p50": 0.276,
+    "source": "extrapolated-linear"
+   },
+   "20": {
+    "p50": 0.2688,
+    "source": "extrapolated-linear"
+   },
+   "21": {
+    "p50": 0.2615,
+    "source": "extrapolated-linear"
+   },
+   "22": {
+    "p50": 0.2542,
+    "source": "extrapolated-linear"
+   },
+   "23": {
+    "p50": 0.2469,
+    "source": "extrapolated-linear"
+   },
+   "24": {
+    "p50": 0.2396,
+    "source": "extrapolated-linear"
+   },
+   "25": {
+    "p50": 0.2323,
+    "source": "extrapolated-linear"
+   },
+   "26": {
+    "p50": 0.225,
+    "source": "extrapolated-linear"
+   },
+   "27": {
+    "p50": 0.2177,
+    "source": "extrapolated-linear"
+   },
+   "28": {
+    "p50": 0.2104,
+    "source": "extrapolated-linear"
+   },
+   "29": {
+    "p50": 0.2031,
+    "source": "extrapolated-linear"
+   },
+   "30": {
+    "p50": 0.1958,
+    "source": "extrapolated-linear"
+   },
+   "31": {
+    "p50": 0.1885,
+    "source": "extrapolated-linear"
+   },
+   "32": {
+    "p50": 0.1812,
+    "source": "extrapolated-linear"
+   },
+   "33": {
+    "p50": 0.174,
+    "source": "extrapolated-linear"
+   },
+   "34": {
+    "p50": 0.1667,
+    "source": "extrapolated-linear"
+   },
+   "35": {
+    "p50": 0.1594,
+    "source": "extrapolated-linear"
+   },
+   "36": {
+    "p50": 0.1521,
+    "source": "extrapolated-linear"
+   },
+   "37": {
+    "p50": 0.1448,
+    "source": "extrapolated-linear"
+   },
+   "38": {
+    "p50": 0.1375,
+    "source": "extrapolated-linear"
+   },
+   "39": {
+    "p50": 0.1302,
+    "source": "extrapolated-linear"
+   },
+   "40": {
+    "p50": 0.1229,
+    "source": "extrapolated-linear"
+   },
+   "41": {
+    "p50": 0.1156,
+    "source": "extrapolated-linear"
+   },
+   "42": {
+    "p50": 0.1083,
+    "source": "extrapolated-linear"
+   },
+   "43": {
+    "p50": 0.101,
+    "source": "extrapolated-linear"
+   },
+   "44": {
+    "p50": 0.0938,
+    "source": "extrapolated-linear"
+   },
+   "45": {
+    "p50": 0.0865,
+    "source": "extrapolated-linear"
+   },
+   "46": {
+    "p50": 0.0792,
+    "source": "extrapolated-linear"
+   },
+   "47": {
+    "p50": 0.0719,
+    "source": "extrapolated-linear"
+   },
+   "48": {
+    "p50": 0.0646,
+    "source": "extrapolated-linear"
+   },
+   "49": {
+    "p50": 0.0573,
+    "source": "extrapolated-linear"
+   },
+   "50": {
+    "p50": 0.05,
+    "source": "extrapolated-linear"
+   }
+  },
+  "2|25|ALL": {
+   "1": {
+    "p50": 0.2,
+    "source": "observed"
+   },
+   "2": {
+    "p50": 0.35,
+    "source": "observed"
+   },
+   "3": {
+    "p50": 0.35,
+    "source": "observed"
+   },
+   "4": {
+    "p50": 0.35,
+    "source": "observed"
+   },
+   "5": {
+    "p50": 0.35,
+    "source": "observed"
+   },
+   "6": {
+    "p50": 0.35,
+    "source": "observed"
+   },
+   "7": {
+    "p50": 0.35,
+    "source": "observed"
+   },
+   "8": {
+    "p50": 0.2475,
+    "source": "observed"
+   },
+   "9": {
+    "p50": 0.255,
+    "source": "observed"
+   },
+   "10": {
+    "p50": 0.2006,
+    "source": "observed"
+   },
+   "11": {
+    "p50": 0.1779,
+    "source": "observed"
+   },
+   "12": {
+    "p50": 0.1512,
+    "source": "observed"
+   },
+   "13": {
+    "p50": 0.171,
+    "source": "observed"
+   },
+   "14": {
+    "p50": 0.1464,
+    "source": "observed"
+   },
+   "15": {
+    "p50": 0.116,
+    "source": "observed"
+   },
+   "16": {
+    "p50": 0.0934,
+    "source": "observed"
+   },
+   "17": {
+    "p50": 0.0712,
+    "source": "observed"
+   },
+   "18": {
+    "p50": 0.076,
+    "source": "observed"
+   },
+   "19": {
+    "p50": 0.0592,
+    "source": "observed"
+   },
+   "20": {
+    "p50": 0.0525,
+    "source": "observed"
+   },
+   "21": {
+    "p50": 0.0506,
+    "source": "observed"
+   },
+   "22": {
+    "p50": 0.0505,
+    "source": "observed"
+   },
+   "23": {
+    "p50": 0.05,
+    "source": "observed"
+   },
+   "24": {
+    "p50": 0.05,
+    "source": "observed"
+   },
+   "25": {
+    "p50": 0.05,
+    "source": "observed"
+   }
+  },
+  "2|50|ALL": {
+   "1": {
+    "p50": 0.225,
+    "source": "observed"
+   },
+   "2": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "3": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "4": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "5": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "6": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "7": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "8": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "9": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "10": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "11": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "12": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "13": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "14": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "15": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "16": {
+    "p50": 0.3953,
+    "source": "observed"
+   },
+   "17": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "18": {
+    "p50": 0.3618,
+    "source": "observed"
+   },
+   "19": {
+    "p50": 0.316,
+    "source": "observed"
+   },
+   "20": {
+    "p50": 0.3132,
+    "source": "observed"
+   },
+   "21": {
+    "p50": 0.2958,
+    "source": "observed"
+   },
+   "22": {
+    "p50": 0.2782,
+    "source": "observed"
+   },
+   "23": {
+    "p50": 0.2791,
+    "source": "observed"
+   },
+   "24": {
+    "p50": 0.2549,
+    "source": "observed"
+   },
+   "25": {
+    "p50": 0.254,
+    "source": "observed"
+   },
+   "26": {
+    "p50": 0.2369,
+    "source": "observed"
+   },
+   "27": {
+    "p50": 0.2418,
+    "source": "observed"
+   },
+   "28": {
+    "p50": 0.2261,
+    "source": "observed"
+   },
+   "29": {
+    "p50": 0.2192,
+    "source": "observed"
+   },
+   "30": {
+    "p50": 0.2192,
+    "source": "decay-template-spliced"
+   },
+   "31": {
+    "p50": 0.2192,
+    "source": "decay-template-spliced"
+   },
+   "32": {
+    "p50": 0.2027,
+    "source": "decay-template-spliced"
+   },
+   "33": {
+    "p50": 0.1929,
+    "source": "decay-template-spliced"
+   },
+   "34": {
+    "p50": 0.1798,
+    "source": "decay-template-spliced"
+   },
+   "35": {
+    "p50": 0.1341,
+    "source": "decay-template-spliced"
+   },
+   "36": {
+    "p50": 0.1341,
+    "source": "decay-template-spliced"
+   },
+   "37": {
+    "p50": 0.1341,
+    "source": "decay-template-spliced"
+   },
+   "38": {
+    "p50": 0.1197,
+    "source": "decay-template-spliced"
+   },
+   "39": {
+    "p50": 0.1197,
+    "source": "decay-template-spliced"
+   },
+   "40": {
+    "p50": 0.1184,
+    "source": "decay-template-spliced"
+   },
+   "41": {
+    "p50": 0.1115,
+    "source": "decay-template-spliced"
+   },
+   "42": {
+    "p50": 0.1047,
+    "source": "decay-template-spliced"
+   },
+   "43": {
+    "p50": 0.0979,
+    "source": "decay-template-spliced"
+   },
+   "44": {
+    "p50": 0.091,
+    "source": "decay-template-spliced"
+   },
+   "45": {
+    "p50": 0.0842,
+    "source": "decay-template-spliced"
+   },
+   "46": {
+    "p50": 0.0773,
+    "source": "decay-template-spliced"
+   },
+   "47": {
+    "p50": 0.0705,
+    "source": "decay-template-spliced"
+   },
+   "48": {
+    "p50": 0.0637,
+    "source": "decay-template-spliced"
+   },
+   "49": {
+    "p50": 0.0568,
+    "source": "decay-template-spliced"
+   },
+   "50": {
+    "p50": 0.05,
+    "source": "decay-template-spliced"
+   }
+  },
+  "2|50|5L": {
+   "1": {
+    "p50": 0.225,
+    "source": "observed"
+   },
+   "2": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "3": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "4": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "5": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "6": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "7": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "8": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "9": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "10": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "11": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "12": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "13": {
+    "p50": 0.3825,
+    "source": "observed"
+   },
+   "14": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "15": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "16": {
+    "p50": 0.3759,
+    "source": "observed"
+   },
+   "17": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "18": {
+    "p50": 0.355,
+    "source": "observed"
+   },
+   "19": {
+    "p50": 0.331,
+    "source": "observed"
+   },
+   "20": {
+    "p50": 0.3026,
+    "source": "observed"
+   },
+   "21": {
+    "p50": 0.302,
+    "source": "observed"
+   },
+   "22": {
+    "p50": 0.2681,
+    "source": "observed"
+   },
+   "23": {
+    "p50": 0.2733,
+    "source": "observed"
+   },
+   "24": {
+    "p50": 0.2511,
+    "source": "observed"
+   },
+   "25": {
+    "p50": 0.2588,
+    "source": "observed"
+   },
+   "26": {
+    "p50": 0.2455,
+    "source": "observed"
+   },
+   "27": {
+    "p50": 0.2245,
+    "source": "observed"
+   },
+   "28": {
+    "p50": 0.242,
+    "source": "observed"
+   },
+   "29": {
+    "p50": 0.2289,
+    "source": "decay-template-spliced"
+   },
+   "30": {
+    "p50": 0.1831,
+    "source": "decay-template-spliced"
+   },
+   "31": {
+    "p50": 0.1831,
+    "source": "decay-template-spliced"
+   },
+   "32": {
+    "p50": 0.1831,
+    "source": "decay-template-spliced"
+   },
+   "33": {
+    "p50": 0.1688,
+    "source": "decay-template-spliced"
+   },
+   "34": {
+    "p50": 0.1688,
+    "source": "decay-template-spliced"
+   },
+   "35": {
+    "p50": 0.1665,
+    "source": "decay-template-spliced"
+   },
+   "36": {
+    "p50": 0.1588,
+    "source": "decay-template-spliced"
+   },
+   "37": {
+    "p50": 0.151,
+    "source": "decay-template-spliced"
+   },
+   "38": {
+    "p50": 0.1432,
+    "source": "decay-template-spliced"
+   },
+   "39": {
+    "p50": 0.1355,
+    "source": "decay-template-spliced"
+   },
+   "40": {
+    "p50": 0.1277,
+    "source": "decay-template-spliced"
+   },
+   "41": {
+    "p50": 0.1199,
+    "source": "decay-template-spliced"
+   },
+   "42": {
+    "p50": 0.1121,
+    "source": "decay-template-spliced"
+   },
+   "43": {
+    "p50": 0.1044,
+    "source": "decay-template-spliced"
+   },
+   "44": {
+    "p50": 0.0966,
+    "source": "decay-template-spliced"
+   },
+   "45": {
+    "p50": 0.0888,
+    "source": "decay-template-spliced"
+   },
+   "46": {
+    "p50": 0.0811,
+    "source": "decay-template-spliced"
+   },
+   "47": {
+    "p50": 0.0733,
+    "source": "decay-template-spliced"
+   },
+   "48": {
+    "p50": 0.0655,
+    "source": "decay-template-spliced"
+   },
+   "49": {
+    "p50": 0.0578,
+    "source": "decay-template-spliced"
+   },
+   "50": {
+    "p50": 0.05,
+    "source": "decay-template-spliced"
+   }
+  },
+  "2|50|10L": {
+   "1": {
+    "p50": 0.225,
+    "source": "observed"
+   },
+   "2": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "3": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "4": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "5": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "6": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "7": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "8": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "9": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "10": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "11": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "12": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "13": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "14": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "15": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "16": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "17": {
+    "p50": 0.3808,
+    "source": "observed"
+   },
+   "18": {
+    "p50": 0.3819,
+    "source": "observed"
+   },
+   "19": {
+    "p50": 0.331,
+    "source": "observed"
+   },
+   "20": {
+    "p50": 0.3103,
+    "source": "observed"
+   },
+   "21": {
+    "p50": 0.2898,
+    "source": "observed"
+   },
+   "22": {
+    "p50": 0.2745,
+    "source": "observed"
+   },
+   "23": {
+    "p50": 0.2828,
+    "source": "observed"
+   },
+   "24": {
+    "p50": 0.28,
+    "source": "observed"
+   },
+   "25": {
+    "p50": 0.2425,
+    "source": "observed"
+   },
+   "26": {
+    "p50": 0.2337,
+    "source": "observed"
+   },
+   "27": {
+    "p50": 0.245,
+    "source": "observed"
+   },
+   "28": {
+    "p50": 0.2344,
+    "source": "decay-template-spliced"
+   },
+   "29": {
+    "p50": 0.2344,
+    "source": "decay-template-spliced"
+   },
+   "30": {
+    "p50": 0.2344,
+    "source": "decay-template-spliced"
+   },
+   "31": {
+    "p50": 0.2179,
+    "source": "decay-template-spliced"
+   },
+   "32": {
+    "p50": 0.2081,
+    "source": "decay-template-spliced"
+   },
+   "33": {
+    "p50": 0.195,
+    "source": "decay-template-spliced"
+   },
+   "34": {
+    "p50": 0.1492,
+    "source": "decay-template-spliced"
+   },
+   "35": {
+    "p50": 0.1492,
+    "source": "decay-template-spliced"
+   },
+   "36": {
+    "p50": 0.1492,
+    "source": "decay-template-spliced"
+   },
+   "37": {
+    "p50": 0.1349,
+    "source": "decay-template-spliced"
+   },
+   "38": {
+    "p50": 0.1349,
+    "source": "decay-template-spliced"
+   },
+   "39": {
+    "p50": 0.1329,
+    "source": "decay-template-spliced"
+   },
+   "40": {
+    "p50": 0.1253,
+    "source": "decay-template-spliced"
+   },
+   "41": {
+    "p50": 0.1178,
+    "source": "decay-template-spliced"
+   },
+   "42": {
+    "p50": 0.1103,
+    "source": "decay-template-spliced"
+   },
+   "43": {
+    "p50": 0.1027,
+    "source": "decay-template-spliced"
+   },
+   "44": {
+    "p50": 0.0952,
+    "source": "decay-template-spliced"
+   },
+   "45": {
+    "p50": 0.0877,
+    "source": "decay-template-spliced"
+   },
+   "46": {
+    "p50": 0.0801,
+    "source": "decay-template-spliced"
+   },
+   "47": {
+    "p50": 0.0726,
+    "source": "decay-template-spliced"
+   },
+   "48": {
+    "p50": 0.0651,
+    "source": "decay-template-spliced"
+   },
+   "49": {
+    "p50": 0.0575,
+    "source": "decay-template-spliced"
+   },
+   "50": {
+    "p50": 0.05,
+    "source": "decay-template-spliced"
+   }
+  },
+  "2|50|25L": {
+   "1": {
+    "p50": 0.225,
+    "source": "observed"
+   },
+   "2": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "3": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "4": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "5": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "6": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "7": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "8": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "9": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "10": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "11": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "12": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "13": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "14": {
+    "p50": 0.4,
+    "source": "observed"
+   },
+   "15": {
+    "p50": 0.2746,
+    "source": "observed"
+   },
+   "16": {
+    "p50": 0.353,
+    "source": "observed"
+   },
+   "17": {
+    "p50": 0.3551,
+    "source": "observed"
+   },
+   "18": {
+    "p50": 0.3204,
+    "source": "observed"
+   },
+   "19": {
+    "p50": 0.3204,
+    "source": "decay-template-spliced"
+   },
+   "20": {
+    "p50": 0.3128,
+    "source": "decay-template-spliced"
+   },
+   "21": {
+    "p50": 0.2882,
+    "source": "decay-template-spliced"
+   },
+   "22": {
+    "p50": 0.2756,
+    "source": "decay-template-spliced"
+   },
+   "23": {
+    "p50": 0.2476,
+    "source": "decay-template-spliced"
+   },
+   "24": {
+    "p50": 0.2393,
+    "source": "decay-template-spliced"
+   },
+   "25": {
+    "p50": 0.2158,
+    "source": "decay-template-spliced"
+   },
+   "26": {
+    "p50": 0.2052,
+    "source": "decay-template-spliced"
+   },
+   "27": {
+    "p50": 0.2052,
+    "source": "decay-template-spliced"
+   },
+   "28": {
+    "p50": 0.2052,
+    "source": "decay-template-spliced"
+   },
+   "29": {
+    "p50": 0.1887,
+    "source": "decay-template-spliced"
+   },
+   "30": {
+    "p50": 0.1789,
+    "source": "decay-template-spliced"
+   },
+   "31": {
+    "p50": 0.1658,
+    "source": "decay-template-spliced"
+   },
+   "32": {
+    "p50": 0.1201,
+    "source": "decay-template-spliced"
+   },
+   "33": {
+    "p50": 0.1201,
+    "source": "decay-template-spliced"
+   },
+   "34": {
+    "p50": 0.1201,
+    "source": "decay-template-spliced"
+   },
+   "35": {
+    "p50": 0.1057,
+    "source": "decay-template-spliced"
+   },
+   "36": {
+    "p50": 0.1057,
+    "source": "decay-template-spliced"
+   },
+   "37": {
+    "p50": 0.1057,
+    "source": "decay-template-spliced"
+   },
+   "38": {
+    "p50": 0.1025,
+    "source": "decay-template-spliced"
+   },
+   "39": {
+    "p50": 0.0981,
+    "source": "decay-template-spliced"
+   },
+   "40": {
+    "p50": 0.0937,
+    "source": "decay-template-spliced"
+   },
+   "41": {
+    "p50": 0.0893,
+    "source": "decay-template-spliced"
+   },
+   "42": {
+    "p50": 0.085,
+    "source": "decay-template-spliced"
+   },
+   "43": {
+    "p50": 0.0806,
+    "source": "decay-template-spliced"
+   },
+   "44": {
+    "p50": 0.0762,
+    "source": "decay-template-spliced"
+   },
+   "45": {
+    "p50": 0.0719,
+    "source": "decay-template-spliced"
+   },
+   "46": {
+    "p50": 0.0675,
+    "source": "decay-template-spliced"
+   },
+   "47": {
+    "p50": 0.0631,
+    "source": "decay-template-spliced"
+   },
+   "48": {
+    "p50": 0.0587,
+    "source": "decay-template-spliced"
+   },
+   "49": {
+    "p50": 0.0544,
+    "source": "decay-template-spliced"
+   },
+   "50": {
+    "p50": 0.05,
+    "source": "decay-template-spliced"
+   }
+  },
+  "3|25|ALL": {
+   "1": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "2": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "3": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "4": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "5": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "6": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "7": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "8": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "9": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "10": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "11": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "12": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "13": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "14": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "15": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "16": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "17": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "18": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "19": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "20": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "21": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "22": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "23": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "24": {
+    "p50": 0.35,
+    "source": "no-data"
+   },
+   "25": {
+    "p50": 0.35,
+    "source": "no-data"
+   }
+  },
+  "4|25|ALL": {
+   "1": {
+    "p50": 0.275,
+    "source": "observed"
+   },
+   "2": {
+    "p50": 0.35,
+    "source": "observed"
+   },
+   "3": {
+    "p50": 0.35,
+    "source": "observed"
+   },
+   "4": {
+    "p50": 0.35,
+    "source": "observed"
+   },
+   "5": {
+    "p50": 0.3444,
+    "source": "observed"
+   },
+   "6": {
+    "p50": 0.2805,
+    "source": "observed"
+   },
+   "7": {
+    "p50": 0.1874,
+    "source": "observed"
+   },
+   "8": {
+    "p50": 0.2026,
+    "source": "observed"
+   },
+   "9": {
+    "p50": 0.1746,
+    "source": "observed"
+   },
+   "10": {
+    "p50": 0.1484,
+    "source": "observed"
+   },
+   "11": {
+    "p50": 0.131,
+    "source": "observed"
+   },
+   "12": {
+    "p50": 0.121,
+    "source": "observed"
+   },
+   "13": {
+    "p50": 0.1006,
+    "source": "observed"
+   },
+   "14": {
+    "p50": 0.1129,
+    "source": "observed"
+   },
+   "15": {
+    "p50": 0.076,
+    "source": "observed"
+   },
+   "16": {
+    "p50": 0.0742,
+    "source": "observed"
+   },
+   "17": {
+    "p50": 0.0694,
+    "source": "decay-template-spliced"
+   },
+   "18": {
+    "p50": 0.0685,
+    "source": "decay-template-spliced"
+   },
+   "19": {
+    "p50": 0.0685,
+    "source": "decay-template-spliced"
+   },
+   "20": {
+    "p50": 0.0685,
+    "source": "decay-template-spliced"
+   },
+   "21": {
+    "p50": 0.0685,
+    "source": "decay-template-spliced"
+   },
+   "22": {
+    "p50": 0.0685,
+    "source": "decay-template-spliced"
+   },
+   "23": {
+    "p50": 0.0685,
+    "source": "decay-template-spliced"
+   },
+   "24": {
+    "p50": 0.0685,
+    "source": "decay-template-spliced"
+   },
+   "25": {
+    "p50": 0.0685,
+    "source": "decay-template-spliced"
+   }
+  },
+  "4|25|1L": {
+   "1": {
+    "p50": 0.275,
+    "source": "observed"
+   },
+   "2": {
+    "p50": 0.35,
+    "source": "observed"
+   },
+   "3": {
+    "p50": 0.35,
+    "source": "observed"
+   },
+   "4": {
+    "p50": 0.35,
+    "source": "observed"
+   },
+   "5": {
+    "p50": 0.3444,
+    "source": "observed"
+   },
+   "6": {
+    "p50": 0.2805,
+    "source": "observed"
+   },
+   "7": {
+    "p50": 0.1874,
+    "source": "observed"
+   },
+   "8": {
+    "p50": 0.2026,
+    "source": "observed"
+   },
+   "9": {
+    "p50": 0.1746,
+    "source": "observed"
+   },
+   "10": {
+    "p50": 0.1484,
+    "source": "observed"
+   },
+   "11": {
+    "p50": 0.131,
+    "source": "observed"
+   },
+   "12": {
+    "p50": 0.121,
+    "source": "observed"
+   },
+   "13": {
+    "p50": 0.1006,
+    "source": "observed"
+   },
+   "14": {
+    "p50": 0.1129,
+    "source": "observed"
+   },
+   "15": {
+    "p50": 0.076,
+    "source": "observed"
+   },
+   "16": {
+    "p50": 0.0742,
+    "source": "observed"
+   },
+   "17": {
+    "p50": 0.0694,
+    "source": "decay-template-spliced"
+   },
+   "18": {
+    "p50": 0.0685,
+    "source": "decay-template-spliced"
+   },
+   "19": {
+    "p50": 0.0685,
+    "source": "decay-template-spliced"
+   },
+   "20": {
+    "p50": 0.0685,
+    "source": "decay-template-spliced"
+   },
+   "21": {
+    "p50": 0.0685,
+    "source": "decay-template-spliced"
+   },
+   "22": {
+    "p50": 0.0685,
+    "source": "decay-template-spliced"
+   },
+   "23": {
+    "p50": 0.0685,
+    "source": "decay-template-spliced"
+   },
+   "24": {
+    "p50": 0.0685,
+    "source": "decay-template-spliced"
+   },
+   "25": {
+    "p50": 0.0685,
+    "source": "decay-template-spliced"
+   }
+  }
+ },
+ "groups_per_key": {
+  "1|25|ALL": {
+   "groups": 2,
+   "start_year_cutoff": 2024,
+   "recent_cohort_break_month": null,
+   "last_observed_month": null,
+   "template_groups": 2
+  },
+  "1|50|ALL": {
+   "groups": 9,
+   "start_year_cutoff": 2025,
+   "recent_cohort_break_month": null,
+   "last_observed_month": 2,
+   "template_groups": 1
+  },
+  "2|25|ALL": {
+   "groups": 8,
+   "start_year_cutoff": 2022,
+   "recent_cohort_break_month": 8,
+   "last_observed_month": 25,
+   "template_groups": 8
+  },
+  "2|50|ALL": {
+   "groups": 154,
+   "start_year_cutoff": 2024,
+   "recent_cohort_break_month": 18,
+   "last_observed_month": 29,
+   "template_groups": 88
+  },
+  "3|25|ALL": {
+   "groups": 1,
+   "start_year_cutoff": 2026,
+   "recent_cohort_break_month": null,
+   "last_observed_month": null,
+   "template_groups": 0
+  },
+  "4|25|ALL": {
+   "groups": 30,
+   "start_year_cutoff": 2025,
+   "recent_cohort_break_month": 5,
+   "last_observed_month": 16,
+   "template_groups": 29
+  }
+ },
+ "metadata": {
+  "version": 6,
+  "method": "v5 (recent-cohort median) for observed months, then the pooled all-years decay-shape template (by months-since-break) splices in the tail, shifted to connect with the last real point",
+  "min_groups": 15
+ }
+}
